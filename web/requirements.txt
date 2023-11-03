@@ -1,0 +1,9 @@
+Flask
+flask_restful
+pymongo
+bcrypt
+numpy
+TensorFlow~=2.11.0
+requests
+keras
+pillow
